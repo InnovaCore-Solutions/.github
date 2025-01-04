@@ -1,17 +1,17 @@
-![Logo](/profile/logo.png)
+![Logo](/profile/Logo.png)
 
 <p align="center"><i>Welcome to Innova-Core Solutions</i></p>
-<p align="center"><i>When ML production systems look encoded - we'll help you decode it.</i></p>
+<p align="center"><i>Decoding the complexities of ML production systems, one solution at a time.</i></p>
 
 ### About Us
-[Innova-Core Solutions](https://innovacore-solutions.vercel.app/) is revolutionizing the way developers interact with APIs. As a cutting-edge developer tools company, we specialize in creating innovative API tooling built on the OpenAPI Specification and Postman Collection Format standards.
+[Innova-Core Solutions](https://innovacore-solutions.vercel.app/) is at the forefront of AI and Machine Learning innovation. We empower developers and organizations to build, scale, and optimize production-grade ML systems with ease. Our mission is to bridge the gap between cutting-edge AI research and real-world implementation.
 
 ### The Challenge
-APIs are the backbone of modern software, yet integrating them remains a complex, time-intensive process. For API-first companies, this creates significant barriers to onboarding and scaling customers effectively.
+Bringing Machine Learning models to production is fraught with challenges—ranging from fragmented tools and inconsistent workflows to the complexity of integrating APIs and managing MLOps pipelines. These barriers slow down innovation and make scaling ML systems an uphill battle.
 
 ### Our Solution
-At Innova-Core Solutions, we simplify API integration by automating SDK generation. Our tools empower developers to connect to any API with minimal effort, reducing integration time and enabling them to focus on building great products. With our solutions, writing fewer lines of code means achieving more.
+At Innova-Core Solutions, we simplify the journey to production-grade AI. Our platform delivers advanced tools to streamline API integration, automate SDK generation, and optimize ML pipelines. We enable developers to focus on what truly matters—delivering impactful AI solutions—while cutting down on development time and effort. With us, simplicity meets scalability.
 
 <div align="center">
-  <h3>The hub for continuous learning on production-grade ML & MLOps systems</h3>
+  <h3>Your trusted partner for building and maintaining scalable, production-ready ML systems.</h3>
 </div>
